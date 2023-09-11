@@ -1,4 +1,4 @@
-package com.revature.W2.D2;
+package W2.D2;
 
 public class Animal {
     public static void main(String[] argv) {

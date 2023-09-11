@@ -1,4 +1,4 @@
-package com.revature.W2.D2;
+package W2.D2;
 
 public class Person {
     // This person is going to be used to create Person objects that have all the characteristics of real people

@@ -1,4 +1,4 @@
-package com.revature.W2.D3;
+package W2.D3;
 
 public class Item {
 
